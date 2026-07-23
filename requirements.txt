@@ -1,0 +1,11 @@
+langchain_groq
+langgraph 
+langchain 
+langchain-groq 
+langgraph-checkpoint-sqlite 
+langgraph-supervisor 
+langchain-ollama
+langchain-groq
+duckduckgo-search
+langgraph-supervisor
+langchain-tavily
